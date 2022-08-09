@@ -10,14 +10,15 @@ namespace Hospital
     {
         static void Main(string[] args)
         {
-            int turn;
+            int peopleInLine;
             int waitingTime = 10;
+            int minutesInHour = 60;
 
             Console.Write("Введите количество людей в очереди: ");
-            turn = Convert.ToInt32(Console.ReadLine());
+            peopleInLine = Convert.ToInt32(Console.ReadLine());
             
-            int waitingHours = turn * waitingTime / 60;
-            int waitingMinutes = turn * waitingTime % 60;
+            int waitingHours = peopleInLine * waitingTime / minutesInHour;
+            int waitingMinutes = peopleInLine * waitingTime % minutesInHour;
 
             Console.WriteLine($"Время ожидания сосавит {waitingHours} часов и {waitingMinutes} минут");
 
