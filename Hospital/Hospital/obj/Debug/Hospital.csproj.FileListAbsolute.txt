@@ -1,0 +1,8 @@
+D:\Visual Studio\Project\Hospital\Hospital\bin\Debug\Hospital.exe.config
+D:\Visual Studio\Project\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\Visual Studio\Project\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\Visual Studio\Project\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\Hospital\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\Visual Studio\Project\Hospital\Hospital\obj\Debug\Hospital.pdb
